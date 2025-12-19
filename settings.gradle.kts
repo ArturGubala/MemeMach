@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MemeMach"
 include(":androidApp")
-include(":shared")
+include(":composeApp")
