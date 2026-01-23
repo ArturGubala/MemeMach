@@ -38,6 +38,11 @@ kotlin {
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
         }
+
+        androidMain.dependencies {
+            implementation(libs.compose.ui.tooling.preview)
+        }
+
         commonTest.dependencies {
             implementation(libs.kotlin.test)
         }

@@ -3,7 +3,7 @@ agp = "8.13.2"
 kotlin = "2.3.0"
 compose = "1.10.0"
 compose-material3 = "1.4.0"
-compose-plugin = "1.7.0"
+compose-plugin = "1.10.0"
 androidx-activityCompose = "1.12.2"
 
 [libraries]
